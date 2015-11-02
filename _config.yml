@@ -1,0 +1,23 @@
+name: Quotes
+favicon: null
+layout_spectrum: 0.45298705296590924
+typography_spectrum: 0.7621708891820163
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8609944770578295
+  lightness: 0.6801828262396157
+  saturation: 0.8253570897504687
+  rhythmicContrast: 0.743057174840942
+purpose: []
